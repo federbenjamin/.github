@@ -11,5 +11,4 @@ Default community files that GitHub applies to every public repository on this a
 ## Git workflow
 
 - `main` changes only through a PR, squash-merged.
-- Branch names: `<type>/<slug>`, the type being the commit type (`feat`, `fix`, `docs`, `chore`, `refactor`).
 <!-- <<< git-workflow -->
